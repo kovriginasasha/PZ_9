@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+beanie
+motor
+pydantic
+pydantic-settings
+email-validator
+requests
+dnspython
